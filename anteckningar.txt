@@ -1,2 +1,3 @@
 Mina anteckningar om Git
 - git status visar läget
+- git add lägger ändringar i staging area
