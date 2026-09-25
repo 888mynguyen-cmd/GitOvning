@@ -1,0 +1,2 @@
+Mina anteckningar om Git
+- git status visar läget
