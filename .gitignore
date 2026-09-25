@@ -1,3 +1,9 @@
 # Editor-filer
 .vs/
 .vscode/
+# Byggfiler
+bin/
+obj/
+
+# Personliga filer
+anteckningar.txt
